@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/veritech/static/css/main.ebe9cdf8.css",
+    "main.js": "/veritech/static/js/main.aea4ac22.js",
+    "static/media/profile.png": "/veritech/static/media/profile.5faf09a7795d28bf5a2b.png",
+    "index.html": "/veritech/index.html",
+    "main.ebe9cdf8.css.map": "/veritech/static/css/main.ebe9cdf8.css.map",
+    "main.aea4ac22.js.map": "/veritech/static/js/main.aea4ac22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe9cdf8.css",
+    "static/js/main.aea4ac22.js"
+  ]
+}
